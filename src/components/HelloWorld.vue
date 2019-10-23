@@ -37,7 +37,7 @@ simulateProgress () {
       src: ['./ready.mp3']
       });
       sound.play()
-        var attente = Math.random() * (3 - 1) + 2;
+        var attente = Math.random() * 3 + 2;
         setTimeout(()=> {
 
       sound = new Howl({
