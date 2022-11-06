@@ -15,7 +15,7 @@
     "howler": "^2.0.15",
     "quasar-extras": "^2.0.4",
     "quasar-framework": "^0.17.0",
-    "surge": "^0.20.1",
+    "surge": "^0.20.5",
     "vue": "^2.5.17"
   },
   "devDependencies": {
